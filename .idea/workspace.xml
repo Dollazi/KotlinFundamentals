@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b26b2257-3336-4e4f-ab3f-717c13d33382" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fundamentals/attributes.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fundamentals/classe.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fundamentals/collections.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fundamentals/companion_object.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fundamentals/function.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fundamentals/function_return.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fundamentals/iffelse.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fundamentals/nullsafety.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fundamentals/repetitions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fundamentals/variables.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fundamentals/when_structure.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Akpl2C1eP4iKox0eIVL7lAIOeP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/luis_/OneDrive/Estudos programação/Kotlin e Spring/Fundamentals/src/main/kotlin/fundamentals&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\luis_\OneDrive\Estudos programação\Kotlin e Spring\Fundamentals\src\main\kotlin\fundamentals" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.CollectionsKt">
+    <configuration name="CollectionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentals.CollectionsKt" />
+      <module name="Fundamentals.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentals.FunctionKt" />
+      <module name="Fundamentals.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IffelseKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentals.IffelseKt" />
+      <module name="Fundamentals.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RepetitionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentals.RepetitionsKt" />
+      <module name="Fundamentals.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="When_structureKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentals.When_structureKt" />
+      <module name="Fundamentals.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.CollectionsKt" />
+        <item itemvalue="Kotlin.When_structureKt" />
+        <item itemvalue="Kotlin.RepetitionsKt" />
+        <item itemvalue="Kotlin.IffelseKt" />
+        <item itemvalue="Kotlin.FunctionKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b26b2257-3336-4e4f-ab3f-717c13d33382" name="Changes" comment="" />
+      <created>1655563589403</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655563589403</updated>
+      <workItem from="1655563592319" duration="1839000" />
+      <workItem from="1657143702765" duration="5871000" />
+      <workItem from="1657665579924" duration="6303000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
